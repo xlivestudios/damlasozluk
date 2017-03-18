@@ -2,13 +2,13 @@
 Açık kaynak Jquery tabanlı canlı sözlük sitesi
 
 # hızlı ve ücretli kurulum
-Aynı gün kurulum
-anahtar teslim sözlük sitesi
-ücretsiz domain adresi
-ücretsiz hosting
-otomatik güncellemeler
-isteğe bağlı temalar
-isteğe bağlı güncellemeler
+<br />aynı gün kurulum
+<br />anahtar teslim sözlük sitesi
+<br />ücretsiz domain adresi
+<br />ücretsiz hosting
+<br />otomatik güncellemeler
+<br />isteğe bağlı temalar
+<br />isteğe bağlı güncellemeler
 
-#satın al
-admin@fatihrehberlik.com
+# satın al
+<br />admin@fatihrehberlik.com
