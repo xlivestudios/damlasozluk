@@ -1,4 +1,4 @@
-# damlasozluk
+# damlasozluk.com
 açık kaynak jquery/firebase tabanlı canlı sözlük sitesi
 
 # kurulum adımları
