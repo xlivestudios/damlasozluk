@@ -12,4 +12,4 @@ domain ve hosting tarafımızdan ayarlanmakla beraber aynı gün içerisinde sö
 <br />tüm güncellemeler otomatik olarak hesabınıza yansıtılacaktır +isteğe bağlı olarak özel temalar da uygulanabilir 
 
 # satın al
-admin@fatirehberlik.com
+mustafayildizx@gmail.com
