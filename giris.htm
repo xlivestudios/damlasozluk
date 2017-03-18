@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html xmlns="//www.w3.org/1999/xhtml">
+	<head>
+		<title>Giris</title>
+		<link rel='icon' type='image/png' href='img/logo.png'>
+		<meta name="Description" content="Giriş - Damla Sözlük">
+		<meta name="Keywords" content="damla sözlük, sözlük sitesi">
+		<script src="https://www.gstatic.com/firebasejs/live/3.0/firebase-app.js"></script>
+		<script src="https://www.gstatic.com/firebasejs/live/3.0/firebase-auth.js"></script>
+		<script src="https://www.gstatic.com/firebasejs/ui/0.4.0/firebase-ui-auth.js"></script>
+		<link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/0.4.0/firebase-ui-auth.css" />
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="content-type" content="text/html; charset=UTF8">
+		
+		<!-- Bootstrap -->
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		
+	<!-- Font Awesome -->
+	<script src="https://use.fontawesome.com/b04ce120e0.js"></script>
+		
+		<script src="js/config.js"></script>
+	
+		<style>
+			.center{
+				position:absolute;
+				top:27%;
+				left:47%;
+				padding:15px;
+				-ms-transform: translateX(-50%) translateY(-50%);
+				-webkit-transform: translate(-50%,-50%);
+				transform: translate(-50%,-50%);
+			}
+		</style>
+		
+		
+  </head>
+  <body class="jumbotron container">
+		<h2 id='baslik'>
+			<i class="fa fa-tint" aria-hidden="true" style="color:#77B3D4;"></i> giriş
+		</h2>
+		<p id='aciklama'>
+			sosyal medya hesaplarından biriyle kolayca giriş yap 
+		</p>
+		<!-- Firebase Girişi -->
+    <div id="firebaseui-auth-container" style="float:left;"></div>
+		<div id="user" class="center"></div>
+		<div id="islemler" class="container"></div>
+		<!-- Firebase Girişi -->
+
+			<script src="js/giris.js"></script>
+		
+  </body>
+</html>
