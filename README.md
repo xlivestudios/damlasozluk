@@ -1,5 +1,5 @@
 # damlasozluk
-Açık kaynak Jquery tabanlı canlı sözlük sitesi
+açık kaynak jquery/firebase tabanlı canlı sözlük sitesi
 
 # kurulum adımları
 dosyaları windows destekli hostunuza yükleyin
@@ -8,13 +8,8 @@ dosyaları windows destekli hostunuza yükleyin
 <br />sözlük siteniz hazır :)
 
 # hızlı ve ücretli kurulum
-aynı gün kurulum
-<br />anahtar teslim sözlük sitesi
-<br />ücretsiz domain adresi
-<br />ücretsiz hosting
-<br />otomatik güncellemeler
-<br />isteğe bağlı temalar
-<br />isteğe bağlı güncellemeler
+domain ve hosting tarafımızdan ayarlanmakla beraber aynı gün içerisinde sözülk sitenizi teslim ediyoruz
+<br />tüm güncellemeler otomatik olarak hesabınıza yansıtılacaktır +isteğe bağlı olarak özel temalar da uygulanabilir 
 
 # satın al
-mustafayildizx@gmail.com
+admin@fatirehberlik.com
