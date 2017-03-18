@@ -282,7 +282,7 @@
 			<li>https desteği</li>
 			<li>vs vs..</li>
 			<br />
-			<a class="btn btn-default btn-lg" href="https://github.com/Mustayildiz/damlasozluk"><li class="fa fa-github"></li> indir</a>
+			<a class="btn btn-default btn-lg" href="https://github.com/XliveStudios/damlasozluk"><li class="fa fa-github"></li> indir</a>
 		</div>
 
 
