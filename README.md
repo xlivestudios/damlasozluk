@@ -12,5 +12,5 @@ domain ve hosting tarafımızdan ayarlanmakla beraber aynı gün içerisinde sö
 <br />tüm güncellemeler otomatik olarak hesabınıza yansıtılacaktır +isteğe bağlı olarak özel temalar da uygulanabilir 
 
 # satın al
-https://github.com/xlivestudios/damlasozluk/pulls
-<br />Pull reguest açarak talep gönderebilirsiniz 
+https://github.com/xlivestudios/damlasozluk/issues
+<br />Issue açarak talep gönderebilirsiniz 
