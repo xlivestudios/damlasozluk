@@ -13,4 +13,4 @@ domain ve hosting tarafımızdan ayarlanmakla beraber aynı gün içerisinde sö
 
 # satın al
 https://github.com/xlivestudios/damlasozluk/pulls
-Pull reguest açarak talep gönderebilirsiniz 
+<br />Pull reguest açarak talep gönderebilirsiniz 
